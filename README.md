@@ -1,0 +1,2 @@
+# Wallpapers-Application-Android
+This is a java-based Android application for checking, downloading and Viewing new Wallpapers of different categories. The project includes Java, XML as programming languages and Firebase as Cloud Database. The wallpaper data will be stored in .json file in Firebase DB. The Database is connected to the application using SHA-1 random key and the product is successfully installed and running in Android Phone.
